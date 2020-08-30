@@ -1,0 +1,10 @@
+remote_theme: samarsault/plainwhite-jekyll
+plainwhite:
+  name: Jiawei Zhang
+  tagline: The Ordinary student is not ordinary.
+  date_format: "%b %-d, %Y"
+  portfolio_image:  "/zjw.jpg"
+  social_links:
+    twitter: samarsault
+    github: samarsault
+    linkedIn: in/samarsault
